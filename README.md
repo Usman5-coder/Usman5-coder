@@ -49,4 +49,3 @@ I’m a passionate Full Stack Developer, Software Engineer, and Automation Exper
 
 Let's build something amazing together! 🚀
 
-```
