@@ -50,5 +50,3 @@ I’m a passionate Full Stack Developer, Software Engineer, and Automation Exper
 Let's build something amazing together! 🚀
 
 ```
-**Replace `YOUR_LINKEDIN_URL` and `YOUR_PORTFOLIO_URL` with your actual links.**  
-Feel free to tweak the styling, emojis, or add sections according to your personal flair!
