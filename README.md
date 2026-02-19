@@ -121,21 +121,20 @@ const developer = {
 
 ## `> github --stats`
 
-<div align="center">
-
-<!-- Stats — tokyonight is the most stable theme, no custom bg to avoid conflicts -->
-<img src="https://github-readme-stats.vercel.app/api?username=Usman5-coder&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="175"/>
-&nbsp;&nbsp;
-<!-- Streak — demolab.com is the maintained/stable fork -->
-<img src="https://streak-stats.demolab.com?user=Usman5-coder&theme=tokyonight&hide_border=true" height="175"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usman5-coder&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
-
-</div>
-
-<br/>
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=usman5-coder&theme=dark&hide_border=false" /> 
+</td>
+<td width="50%" align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=usman5-coder&layout=compact&langs_count=8&theme=algolia"/>
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+</p>    
 
 <!-- Activity Graph -->
 <div align="center">
@@ -143,21 +142,6 @@ const developer = {
 </div>
 
 <br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<br/>
-
-## `> achievements --trophies`
-
-<div align="center">
-  <!-- alduin theme is stable; column=6 avoids overflow blank -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Usman5-coder&theme=alduin&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%"/>
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <br/>
 
