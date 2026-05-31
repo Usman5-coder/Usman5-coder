@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://muhammad-usman-ashy.vercel.app">
+<a href="https://muhammad-usman-subhani.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=vercel&logoColor=black"/>
 </a>
 &nbsp;
@@ -154,7 +154,7 @@ const developer = {
     <td width="50%" valign="top">
       <h3 align="center">🌐 Portfolio Website</h3>
       <div align="center">
-        <a href="https://muhammad-usman-ashy.vercel.app" target="_blank">
+        <a href="https://muhammad-usman-subhani.vercel.app" target="_blank">
           <img src="https://img.shields.io/badge/Live_Demo-00D4FF?style=for-the-badge&logo=vercel&logoColor=black"/>
         </a>
       </div>
@@ -259,7 +259,7 @@ const developer = {
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://muhammad-usman-ashy.vercel.app">
+<a href="https://muhammad-usman-subhani.vercel.app">
   <img src="https://img.shields.io/badge/View_Portfolio-00D4FF?style=for-the-badge&logo=vercel&logoColor=black"/>
 </a>
 &nbsp;
